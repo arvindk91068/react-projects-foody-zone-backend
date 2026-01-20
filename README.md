@@ -9,9 +9,12 @@ A complete, scalable backend API for a food delivery application built with Node
 
 ## 🚀 Live Demo
 
-- **Backend API:** [https://foody-zone-api.onrender.com](https://foody-zone-api.onrender.com)
-- **API Documentation:** [https://foody-zone-api.onrender.com/api-docs](https://foody-zone-api.onrender.com/api-docs)
-- **Frontend Repository:** [Foody Zone Frontend](https://github.com/yourusername/foody-zone-frontend)
+- **Backend API:**  http://localhost:8080
+📡 API URL: http://localhost:8080
+🌐 Frontend URL: http://localhost:3000/
+✅ Health check: http://localhost:8080/health
+📋 Menu API: http://localhost:8080/api/menu
+- **Frontend Repository:** https://github.com/arvindk91068/react-projects-foody-zone-fronted.git
 
 ## ✨ Features
 
